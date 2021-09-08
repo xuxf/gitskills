@@ -4,3 +4,4 @@ xuxf
 2
 Creating a new branch is quick.
 branch test2
+switch test3
