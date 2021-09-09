@@ -8,3 +8,4 @@ switch test5
 Creating a new branch.
 test--no-ff
 dev1feature1
+dev2.txt
